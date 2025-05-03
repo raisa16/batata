@@ -1,7 +1,7 @@
-.product-cards-container {
+.article {
     display: flex;
     flex-wrap: wrap;
-    width: 930px;
+    width: 700px;
     margin: 0 auto;
 
 
@@ -9,8 +9,9 @@
 .plans-container-slider {
     justify-content: center;
 }
-.main-tables-container {
+.parent-tables-container {
     display: flex;
-    width: 930px;
+    justify-content: center;
+    width: 1000px;
     margin: 0 auto;
 }
