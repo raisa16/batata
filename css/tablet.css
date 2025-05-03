@@ -1,10 +1,8 @@
-.article {
+.product-cards-container {
     display: flex;
     flex-wrap: wrap;
-    width: 700px;
+    width: 900px;
     margin: 0 auto;
-
-
 }
 .plans-container-slider {
     justify-content: center;
@@ -12,6 +10,6 @@
 .parent-tables-container {
     display: flex;
     justify-content: center;
-    width: 1000px;
+    width: 900px;
     margin: 0 auto;
 }
